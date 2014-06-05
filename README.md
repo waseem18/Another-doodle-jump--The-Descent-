@@ -1,4 +1,4 @@
-Another-doodle-jump
+Another-doodle-jump  (The Descent)
 ===================
 Another doodle jump is a game made with Pygame and SimpleGUI.
 
